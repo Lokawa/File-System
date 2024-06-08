@@ -1,4 +1,4 @@
-# Prj3 522031910547
+# Prj3 
 This project contains the following files:
 ## Root directory.
 * **Makefile**: The Makefile file used to compile the entire project.
